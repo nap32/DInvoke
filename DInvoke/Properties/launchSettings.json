@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DInvoke": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
